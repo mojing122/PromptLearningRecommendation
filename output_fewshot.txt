@@ -1,0 +1,416 @@
+====================
+dataset agnews	temp 0	seed 144	shot 10	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	
+Acc: 0.833421052631579
+
+====================
+dataset agnews	temp 0	seed 144	shot 10	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	
+Acc: 0.833421052631579
+
+====================
+dataset agnews	temp 0	seed 144	shot 10	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	
+Acc: 0.833421052631579
+
+====================
+dataset agnews	temp 0	seed 144	shot 10	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	
+Acc: 0.833421052631579
+
+====================
+dataset agnews	temp 0	seed 144	shot 10	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	
+Acc: 0.833421052631579
+
+====================
+dataset agnews	temp 0	seed 144	shot 1	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	
+Acc: 0.783157894736842
+
+====================
+dataset newstitle	temp 0	seed 144	shot 10	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	
+Acc: 0.6525
+
+====================
+dataset movielens	temp 0	seed 144	shot 2	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	
+Acc: 0.7576184959451971
+
+====================
+dataset movielens	temp 0	seed 141	shot 1	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	
+Acc: 0.8406789905807687	RMSE: 0.5924353979978632	MAE: 0.21628972951191255
+
+====================
+dataset movielens	temp 0	seed 141	shot 10	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	
+Acc: 0.9999496297788747	RMSE: 0.014194396235877134	MAE: 0.00010074044225054147
+
+====================
+dataset movielens	temp 0	seed 141	shot 1	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	
+Acc: 0.15183689746273865	RMSE: 2.2760820118264835	MAE: 1.9402322915108918
+
+====================
+dataset movielens	temp 0	seed 141	shot 10	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	
+Acc: 0.2733163850256717	RMSE: 1.5193286357843327	MAE: 1.1567718458700962
+
+====================
+dataset movielens	temp 0	seed 141	shot 10	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	
+Acc: 0.21699792346484723	RMSE: 1.8159940722600214	MAE: 1.4304360723820824
+
+====================
+dataset movielens	temp 0	seed 141	shot 10	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	
+Acc: 0.2181845149807179	RMSE: 1.9046929505395518	MAE: 1.5166122812221892
+
+====================
+dataset movielens	temp 0	seed 141	shot 10	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	
+Acc: 0.22366017052375153	RMSE: 1.6794475436789156	MAE: 1.3041006902151848
+
+====================
+dataset movielens	temp 0	seed 141	shot 10	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	
+Acc: 0.20757206658546487	RMSE: 1.948119219582534	MAE: 1.5500406008932197
+
+====================
+dataset movielens	temp 0	seed 141	shot 10	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	
+Acc: 0.29758886403181706	RMSE: 1.7104466203491657	MAE: 1.2779020631369624
+
+====================
+dataset movielens	temp 0	seed 141	shot 1	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	
+Acc: 0.32074328418501313	RMSE: 1.3715447948271065	MAE: 0.9958594223389214
+
+====================
+dataset movielens	temp 0	seed 141	shot 1	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	
+Acc: 0.4086087000659865	RMSE: 1.233612955432527	MAE: 0.8441703466829095
+
+====================
+dataset movielens	temp 0	seed 141	shot 1	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	
+Acc: 0.2943896424167694	RMSE: 2.0255382442184633	MAE: 1.5712597616111796
+
+====================
+dataset movielens	temp 0	seed 141	shot 1	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	
+Acc: 0.5452617421891165	RMSE: 1.0711546258910352	MAE: 0.6313366439064763
+
+====================
+dataset movielens	temp 0	seed 141	shot 1	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	
+Acc: 0.27772880477054707	RMSE: 1.6663641588745994	MAE: 1.26844697951776
+
+====================
+dataset movielens	temp 0	seed 141	shot 1	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	
+Acc: 0.5452617421891165	RMSE: 1.0711546258910352	MAE: 0.6313366439064763
+
+====================
+dataset movielens	temp 0	seed 141	shot 5	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	
+Acc: 0.4123215394165115	RMSE: 1.408624524089194	MAE: 0.9553589902751914
+
+====================
+dataset movielens	temp 0	seed 141	shot 2	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	
+Acc: 0.49544796192840884	RMSE: 1.333798801433857	MAE: 0.8345747982619491
+
+====================
+dataset movielens	temp 0	seed 141	shot 1	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	
+Acc: 0.5452617421891165	RMSE: 1.0711546258910352	MAE: 0.6313366439064763
+
+====================
+dataset movielens	temp 0	seed 141	shot 1	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	
+Acc: 0.5359241315328317	RMSE: 1.2000455270888133	MAE: 0.7309040305123183
+
+====================
+dataset movielens	temp 0	seed 141	shot 10	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	
+Acc: 0.6050922585300484	RMSE: 1.1410656065637201	MAE: 0.6472528605298423
+
+====================
+dataset movielens	temp 0	seed 141	shot 1	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	
+Acc: 0.47609375	RMSE: 1.4414077320453085	MAE: 0.93390625
+
+====================
+dataset movielens	temp 0	seed 141	shot 1	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	
+Acc: 0.5743256945852768	RMSE: 1.1706891476865464	MAE: 0.6731900223078483
+
+====================
+dataset movielens	temp 0	seed 141	shot 10	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	
+Acc: 0.9999493003447577	RMSE: 0.01424073807670717	MAE: 0.00010139931048468871
+
+====================
+dataset movielens	temp 0	seed 141	shot 5	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	
+Acc: 0.9840803082539039	RMSE: 0.32699475975327835	MAE: 0.03655445142973028
+
+====================
+dataset movielens	temp 0	seed 141	shot 5	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	
+Acc: 0.877942063971032	RMSE: 0.6367113378138195	MAE: 0.19930597465298733
+
+====================
+dataset movielens	temp 0	seed 141	shot 10	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	
+Acc: 0.9998491249245625	RMSE: 0.024566243134638045	MAE: 0.00030175015087507544
+
+====================
+dataset movielens	temp 0	seed 141	shot 10	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	
+Acc: 1.0	RMSE: 0.0	MAE: 0.0
+
+====================
+dataset movielens	temp 0	seed 141	shot 10	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	
+Acc: 1.0	RMSE: 0.0	MAE: 0.0
+
+====================
+dataset movielens	temp 0	seed 141	shot 1	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	
+Acc: 0.7063435495367071	RMSE: 1.1020618271440956	MAE: 0.5402708481824662
+
+====================
+dataset movielens	temp 0	seed 141	shot 5	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	
+Acc: 0.8788310762651461	RMSE: 0.6626153929279923	MAE: 0.20955096222380612
+
+====================
+dataset movielens	temp 0	seed 141	shot 10	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	
+Acc: 1.0	RMSE: 0.0	MAE: 0.0
+
+====================
+dataset movielens	temp 0	seed 141	shot 1	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	
+Acc: 0.6001196649381731	RMSE: 1.2266974352002715	MAE: 0.6966493817311528
+
+====================
+dataset movielens	temp 0	seed 141	shot 10	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	
+Acc: 0.9998005584363782	RMSE: 0.028244756229916998	MAE: 0.00039888312724371757
+
+====================
+dataset movielens	temp 0	seed 141	shot 1	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	
+Acc: 0.3021956087824351	RMSE: 1.5166408938171234	MAE: 1.1345309381237525
+
+====================
+dataset movielens	temp 0	seed 141	shot 1	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	
+Acc: 0.27873824689111315	RMSE: 1.6250801991361865	MAE: 1.2214134061267818
+
+====================
+dataset movielens	temp 0	seed 141	shot 1	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	
+Acc: 0.27351707609346915	RMSE: 1.6908274729963388	MAE: 1.2639304973037748
+
+====================
+dataset movielens	temp 0	seed 141	shot 1	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	
+Acc: 0.22491145218417946	RMSE: 1.8936709766503657	MAE: 1.49547422274695
+
+====================
+dataset movielens	temp 0	seed 141	shot 1	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	
+Acc: 0.2622211080471296	RMSE: 1.6732301613122427	MAE: 1.2815241915266984
+
+====================
+dataset movielens	temp 0	seed 141	shot 1	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	
+Acc: 0.2622211080471296	RMSE: 1.6732301613122427	MAE: 1.2815241915266984
+
+====================
+dataset movielens	temp 0	seed 141	shot 1	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	
+Acc: 0.2622211080471296	RMSE: 1.6732301613122427	MAE: 1.2815241915266984
+
+====================
+dataset movielens	temp 0	seed 141	shot 5	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	
+Acc: 0.2000501378791677	RMSE: 1.7476123453160681	MAE: 1.3935823514665329
+
+====================
+dataset movielens	temp 0	seed 141	shot 10	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	
+Acc: 0.24316871396339934	RMSE: 1.81929989096258	MAE: 1.4261719729255453
+
+====================
+dataset movielens	temp 0	seed 141	shot 1	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	
+Acc: 0.35556432517758485	RMSE: 1.2727022876010854	MAE: 0.9481057616416733
+
+====================
+dataset movielens	temp 0	seed 141	shot 5	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	
+Acc: 0.28906866614048937	RMSE: 1.4640522847030155	MAE: 1.0917521704814523
+
+====================
+dataset movielens	temp 0	seed 141	shot 1	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	
+Acc: 0.13432835820895522	RMSE: 2.199049998413494	MAE: 1.8805970149253732
+
+====================
+dataset movielens	temp 0	seed 141	shot 1	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	
+Acc: 0.32771422837648	RMSE: 1.383367847843922	MAE: 1.0118402568733695
+
+====================
+dataset movielens	temp 0	seed 141	shot 1	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	
+Acc: 0.3012241621513145	RMSE: 1.5084882582259962	MAE: 1.1324503311258278
+
+====================
+dataset movielens	temp 0	seed 141	shot 1	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	
+Acc: 0.34557495484647804	RMSE: 1.3242213225809367	MAE: 0.9576560305037126
+
+====================
+dataset movielens	temp 0	seed 141	shot 5	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	
+Acc: 0.33192855709412	RMSE: 1.5279849834250816	MAE: 1.1173991571342565
+
+====================
+dataset movielens	temp 0	seed 141	shot 10	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	
+Acc: 0.38390527794501306	RMSE: 1.3504074351168183	MAE: 0.9634758177804535
+
+====================
+dataset movielens	temp 0	seed 141	shot 1	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	
+Acc: 0.34557495484647804	RMSE: 1.3242213225809367	MAE: 0.9576560305037126
+
+====================
+dataset movielens	temp 0	seed 141	shot 1	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	 
+Acc: 0.34557495484647804	RMSE: 1.3242213225809367	MAE: 0.9576560305037126
+
+====================
+dataset movielens	temp 0	seed 141	shot 1	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	 
+Acc: 0.34557495484647804	RMSE: 1.3242213225809367	MAE: 0.9576560305037126
+
+====================
+dataset movielens	temp 0	seed 141	shot 1	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	 
+Acc: 0.34557495484647804	RMSE: 1.3242213225809367	MAE: 0.9576560305037126
+
+====================
+dataset movielens	temp 0	seed 141	shot 1	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	 
+Acc: 0.3094521372667068	RMSE: 1.4281929489175293	MAE: 1.0523780854906684
+
+====================
+dataset movielens	temp 0	seed 141	shot 5	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	 
+Acc: 0.33192855709412	RMSE: 1.5279849834250816	MAE: 1.1173991571342565
+
+====================
+dataset movielens	temp 0	seed 141	shot 5	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	 
+Acc: 0.3126630543849087	RMSE: 1.615199727135636	MAE: 1.1984748143688542
+
+====================
+dataset movielens	temp 0	seed 141	shot 5	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	 
+Acc: 0.33192855709412	RMSE: 1.5279849834250816	MAE: 1.1173991571342565
+
+====================
+dataset movielens	temp 1	seed 141	shot 1	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	 
+Acc: 0.32771422837648	RMSE: 1.383367847843922	MAE: 1.0118402568733695
+
+====================
+dataset movielens	temp 1	seed 141	shot 1	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	 
+Acc: 0.32109171182018864	RMSE: 1.4196663476434688	MAE: 1.0449528396548264
+
+====================
+dataset movielens	temp 1	seed 141	shot 1	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	 
+Acc: 0.3263094521372667	RMSE: 1.3983017709582797	MAE: 1.0240818783865142
+
+====================
+dataset movielens	temp 1	seed 141	shot 5	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	 
+Acc: 0.24503311258278146	RMSE: 1.6383915010817094	MAE: 1.2707204495283966
+
+====================
+dataset movielens	temp 1	seed 141	shot 5	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	 
+Acc: 0.24503311258278146	RMSE: 1.6383915010817094	MAE: 1.2707204495283966
+
+====================
+dataset movielens	temp 1	seed 141	shot 5	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	 
+Acc: 0.24503311258278146	RMSE: 1.6383915010817094	MAE: 1.2707204495283966
+
+====================
+dataset movielens	temp 0	seed 141	shot 1	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	 
+Acc: 0.18950673554137548	RMSE: 1.6165513057670173	MAE: 1.2888179884533577
+
+====================
+dataset movielens	temp 0	seed 141	shot 1	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	 
+Acc: 0.1907281431090955	RMSE: 1.7615329222956833	MAE: 1.4118921642731166
+
+====================
+dataset movielens	temp 0	seed 141	shot 5	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	 
+Acc: 0.20060468631897202	RMSE: 2.0867794627312914	MAE: 1.7122700932224741
+
+====================
+dataset movielens	temp 0	seed 141	shot 5	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	 
+Acc: 0.2247779432150742	RMSE: 1.8427697019879807	MAE: 1.4564871386763876
+
+====================
+dataset movielens	temp 0	seed 141	shot 5	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	 
+Acc: 0.2125070596087693	RMSE: 1.6213077768977968	MAE: 1.2680597627971453
+
+====================
+dataset movielens	temp 0	seed 141	shot 5	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	 
+Acc: 0.22298095189197514	RMSE: 1.944987092702383	MAE: 1.5549109205729834
+
+====================
+dataset movielens	temp 0	seed 141	shot 1	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	 
+Acc: 0.24279919905529598	RMSE: 1.6982696284644343	MAE: 1.3059506084099195
+
+====================
+dataset movielens	temp 0	seed 141	shot 1	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	 
+Acc: 0.2530163782923448	RMSE: 1.6233174115993654	MAE: 1.23525183549828
+
+====================
+dataset movielens	temp 0	seed 141	shot 1	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	 
+Acc: 0.25435128613236124	RMSE: 1.5380375085567894	MAE: 1.1723571391898135
+
+====================
+dataset movielens	temp 2	seed 141	shot 1	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	 
+Acc: 0.2817168968526981	RMSE: 1.553598211436084	MAE: 1.1634748677927813
+
+====================
+dataset movielens	temp 2	seed 141	shot 1	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	 
+Acc: 0.27401550546798786	RMSE: 1.5126242222667732	MAE: 1.1381629614417004
+
+====================
+dataset movielens	temp 2	seed 141	shot 1	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	 
+Acc: 0.26852184628022796	RMSE: 1.6186613888295573	MAE: 1.2234430353750578
+
+====================
+dataset movielens	temp 2	seed 141	shot 5	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	 
+Acc: 0.2574318426862453	RMSE: 1.5186032987080085	MAE: 1.1553627355342198
+
+====================
+dataset movielens	temp 2	seed 141	shot 5	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	 
+Acc: 0.3465626123119577	RMSE: 1.4158825940201711	MAE: 1.0241823689479899
+
+====================
+dataset movielens	temp 2	seed 141	shot 5	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	 
+Acc: 0.34373876880423065	RMSE: 1.4299548088138245	MAE: 1.0352723725419726
+
+====================
+dataset movielens	temp 2	seed 141	shot 1	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	 
+Acc: 0.18297305603934022	RMSE: 2.150256761161372	MAE: 1.7632414711607418
+
+====================
+dataset movielens	temp 2	seed 141	shot 5	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	 
+Acc: 0.20259194754635795	RMSE: 1.9117396498698078	MAE: 1.5228972441348223
+
+====================
+dataset movielens	temp 2	seed 141	shot 5	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	 
+Acc: 0.26036416006583685	RMSE: 1.5401728788213103	MAE: 1.1899495936632034
+
+====================
+dataset movielens	temp 3	seed 141	shot 1	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	 
+Acc: 0.13725490196078433	RMSE: 2.231679223558517	MAE: 1.9215686274509804
+
+====================
+dataset movielens	temp 3	seed 141	shot 5	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	 
+Acc: 0.32679738562091504	RMSE: 1.2705821834762678	MAE: 0.9215686274509803
+
+====================
+dataset movielens	temp 3	seed 141	shot 10	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	 
+Acc: 0.35947712418300654	RMSE: 0.9565734053059191	MAE: 0.7320261437908496
+
+====================
+dataset movielens	temp 3	seed 141	shot 10	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	 
+Acc: 0.3660130718954248	RMSE: 0.9565734053059191	MAE: 0.7189542483660131
+
+====================
+dataset movielens	temp 3	seed 141	shot 10	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	 
+Acc: 0.38562091503267976	RMSE: 1.0571882797418488	MAE: 0.7647058823529411
+
+====================
+dataset movielens	temp 3	seed 141	shot 5	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	 
+Acc: 0.0196078431372549	RMSE: 2.7212549969030713	MAE: 2.581699346405229
+
+====================
+dataset movielens	temp 3	seed 141	shot 5	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	 
+Acc: 0.16993464052287582	RMSE: 1.6509058713562175	MAE: 1.3790849673202614
+
+====================
+dataset movielens	temp 3	seed 141	shot 5	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	 
+Acc: 0.32679738562091504	RMSE: 1.2705821834762678	MAE: 0.9215686274509803
+
+====================
+dataset movielens	temp 3	seed 141	shot 1	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	 
+Acc: 0.0718954248366013	RMSE: 2.5308553412176553	MAE: 2.3006535947712417
+
+====================
+dataset movielens	temp 3	seed 141	shot 1	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	 
+Acc: 0.12418300653594772	RMSE: 2.2272818218010695	MAE: 1.9281045751633987
+
+====================
+dataset movielens	temp 0	seed 141	shot 10	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	 
+Acc: 0.45962732919254656	RMSE: 0.9457324874869207	MAE: 0.6459627329192547
+
+====================
+dataset movielens	temp 0	seed 141	shot 10	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	 
+Acc: 0.45962732919254656	RMSE: 0.9457324874869207	MAE: 0.6459627329192547
+
+====================
+dataset movielens	temp 3	seed 141	shot 10	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	 
+Acc: 0.2111801242236025	RMSE: 1.4295028019803129	MAE: 1.173913043478261
+
+====================
+dataset movielens	temp 0	seed 141	shot 10	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.06	 
+Acc: 0.45962732919254656	RMSE: 0.9457324874869207	MAE: 0.6459627329192547
+
